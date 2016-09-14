@@ -1,0 +1,36 @@
+######  Metadata for Paine, Beck and Terborgh (2016) Ecology
+######  Last updated 2016-09-05
+######  C. E. Timothy Paine, University of Stirling
+######  c.e.t.paine@stir.ac.uk. 
+######  Please contact the lead author prior to using these data in any analyses, or if you have any questions.
+
+
+### species data for Ecology.csv ###
+This file contains species-level data about the 24 species investigated in this study. 
+Each row represents a species
+
+Family, Genus, species: 	Taxonomic identifiers
+Sowing.group:				In which of the four periods was this species used?
+Sowing.date: 				On what date were seeds of this species added to the exclosure cages? format YYYY-MM-DD
+Ending.date: 				On what date were seeds of this species last observed? format YYYY-MM-DD
+obs.length: 				Over what time-span were seeds of this species observed, in days
+n.obs.dates: 				On how many occasions were seeds of this species observed?
+SM:							Species-mean seed mass, in mg. This is an average of at least 30 seeds taken from at least 3 adult trees
+WD:							Species-mean sapwood density, in g·cm^3. This is an average of at least 3 adult trees
+total density:				Stem density of adults of this species, from permanent plots scattered across teh terra firme (never-flooded) and floodplain forests of the Manu River watershed. 
+
+
+### observation data for Ecology.csv ###
+This file contains data about the observations of performance of the 24 species investigated in this study. 
+Each row represents an observation of a single species made on a specific date on a specific exclosure cage
+species:					Which of the 24 species was observed? (Genus and species)
+sp code:					A six-letter code to identify each species (4 letters of Genus, 2 letters of species)
+block:						In which of the 8 geographical blocks was the observed exclosure cage?
+treatment:					Which mammal-exclusion treatment had been applied to the observed exclosure cage?
+date:						On what date was the observation made? format YYYY-MM-DD
+obs period:					Censuses were occasionally made over the course of 2 (or more) days. This is a simplification of teh preceding column, taking the first of multi-day censuses. format YYYY-MM-DD
+Sowing group:				In which of the four periods was this observation made?
+bout:						Observation bouts were numbered sequentially within Sowing groups.
+obs day:					How many days had elapsed between the beginning of the sowing group and the observation?
+seed:						How many intact seeds of the species were observed in the exclosure?
+seedling:					How many intact seedlings of the species were observed in the exclosure?

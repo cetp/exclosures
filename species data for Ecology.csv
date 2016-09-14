@@ -1,0 +1,25 @@
+Family,Genus,species,Sowing.group,Sowing.date,Ending.date,obs.length,n.obs.dates,SM,WD,total density
+Arecaceae,Astrocaryum,murumuru,1,2000-01-25,2004-04-14,1541,24,6000,0.508141839,37.44
+Arecaceae,Attalea,butyracea,2,2001-06-01,2004-04-14,1048,11,54700,0.325650588,27.19
+Lecythidaceae,Bertholletia,excelsa,2,2001-06-01,2004-04-14,1048,11,7500,0.62398375,0.39
+Combretaceae,Buchenavia,grandis,3,2004-04-28,2006-06-27,790,13,1930,0.755,0.12
+Icacinaceae,Calatola,microcarpa,2,2001-06-01,2004-04-14,1048,11,6000,0.54490042,1.1
+Icacinaceae,Calatola,costaricensis,2,2001-06-01,2004-04-14,1048,11,16000,0.47174,4.02
+Clusiaceae,Calophyllum,brasiliense,1,2000-02-29,2004-04-14,1506,23,2520,0.579335713,0.35
+Salicaceae,Casearia,sp.,4,2005-02-03,2006-06-27,509,7,610,0.65819,0.03
+Moraceae,Clarisia,racemosa,4,2005-02-03,2006-06-27,509,7,1780,0.585417648,3.23
+Ebenaceae,Diospyros,artanthifolia,3,2004-07-23,2006-06-27,704,8,610,0.53515,0.08
+Ebenaceae,Diospyros,subrotata,3,2004-04-28,2006-06-27,790,13,790,0.497764823,0.95
+Annonaceae,Duguetia,quitarensis,3,2004-05-15,2006-06-27,773,12,410,0.611792772,2.36
+Rubiaceae,Genipa,americana,4,2005-02-03,2006-06-27,509,7,50,0.643019428,0.35
+Olacaceae,Heisteria,nitida,3,2004-04-28,2006-06-27,790,13,220,0.602188936,1.1
+Arecaceae,Iriartea,deltoidea,3,2004-04-28,2006-06-27,790,13,3860,0.266976471,89.89
+Malvaceae,Matisia,cordata,1,2000-01-25,2004-04-14,1541,24,5290,0.372630556,4.61
+Arecaceae,Mauritia,flexuosa,1,2000-07-28,2004-04-14,1356,18,13840,0.557,3.55
+Nyctaginaceae,Neea,RF 5005,1,1999-11-15,2004-04-14,1612,26,102.5,0.6638,0.12
+Myristicaceae,Otoba,parvifolia,4,2005-02-03,2006-06-27,509,7,1800,0.425753461,27.39
+Arecaceae,Socratea,exorrhiza,3,2004-04-28,2006-06-27,790,13,3440,0.22625,0.12
+Hernandiaceae,Sparattanthelium,tarapotanum,4,2005-02-03,2006-06-27,509,7,550,0.432429193,0.03
+Meliaceae,Swietenia,macrophylla,1,1999-11-15,2004-04-14,1612,26,442.447,0.522323808,0.04
+Myristicaceae,Virola,calophylla,1,1999-11-15,2004-04-14,1612,26,1310,0.329070834,0.16
+Verbenaceae,Vitex,cymosa,4,2005-02-03,2006-06-27,509,7,490,0.570178605,0.32
